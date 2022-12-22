@@ -1,17 +1,21 @@
 {
-    "name": "shipu/themevel",
+    "name": "enver/themevel",
     "description": "Theme and asset management for laravel 5",
     "keywords": ["theme", "child-theme", "multi", "themevel", "asset", "management", "laravel", "lumen"],
-    "homepage": "https://github.com/shipu/themevel",
+    "homepage": "https://github.com/enverarslan/themevel",
     "license": "CC-BY-3.0",
     "authors": [
         {
             "name": "Shipu Ahamed",
             "email": "shipuahamed01@gmail.com"
+        },
+        {
+            "name": "Enver Arslan",
+            "email": "enver@programmer.net"
         }
     ],
     "require": {
-        "hassankhan/config": "^2.1",
+        "hassankhan/config": "^3.0",
         "symfony/yaml": "^5.2"
     },
     "require-dev": {
